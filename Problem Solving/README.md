@@ -2,7 +2,7 @@
 
 Here is a list of my submissions and which languages they're written.
 
-| Challengge Name         | Language  |
-|------------------------ |---------- |
-| Solve Me First          | C         |
-| Divisible Sum Pairs     | C         |
+| Challengge Name         | Language  | File Name |
+|------------------------ |---------- | --------- |
+| Solve Me First          | C         | solvefirst.c |
+| Divisible Sum Pairs     | C         | divsumpairs.c |

@@ -1,6 +1,6 @@
 # HackerRank-Solutions
 
-This repositiory contains all my various [Hackerrank](https://www.hackerrank.com) solutions I've done since I started programming. In future more solutions will be added.
+This repository contains all my various [Hackerrank](https://www.hackerrank.com) solutions I've done since I started programming. In future more solutions will be added.
 
 ---
 
@@ -16,6 +16,6 @@ You can also check out my Hackerrank profile by clicking [here](https://www.hack
 
 ## To-Do List
 
-- [] Complete 30 Days of Code Challenge
-- [] Complete SQL
-- [] Add More Challenges from Problem Solving
+- Complete 30 Days of Code Challenge
+- Add More Challenges to SQL
+- Add More Challenges to Problem Solving
