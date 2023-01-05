@@ -1,6 +1,6 @@
 # 30 Days of Code
 
-Here is a list of my submissions and which languages they're written.
+Here is a list of my submissions and the languages I used for them:
 
 | Day  | Challenge Name                      | Language/s | File Name |
 |----- |------------------------------------ |---------- | ----------- |

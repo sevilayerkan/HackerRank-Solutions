@@ -19,3 +19,4 @@ You can also check out my Hackerrank profile by clicking [here](https://www.hack
 - Complete 30 Days of Code Challenge
 - Add More Challenges to SQL
 - Add More Challenges to Problem Solving
+- Finish adding challenges to Python category

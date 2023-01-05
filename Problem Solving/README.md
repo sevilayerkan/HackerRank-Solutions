@@ -1,6 +1,6 @@
 # Problem Solving
 
-Here is a list of my submissions and which languages they're written.
+Here is a list of my submissions and the languages I used:
 
 | Challenge Name         | Language  | File Name |
 |------------------------ |---------- | --------- |
